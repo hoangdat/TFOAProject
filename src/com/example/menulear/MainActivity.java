@@ -56,6 +56,10 @@ public class MainActivity extends ActionBarActivity {
 			Log.d("Item 2 Event DatPH", "Item 2 Selected");
 			
 			break;
+			
+		case 1:
+			Log.d("Item xxx Event DatPH", "Item 0 selected");
+			break;
 
 		default:
 			break;
